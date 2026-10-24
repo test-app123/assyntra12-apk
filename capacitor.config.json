@@ -1,0 +1,6 @@
+{
+  "appId": "com.assyntra.app",
+  "appName": "assyntra",
+  "webDir": "www",
+  "android": { "allowMixedContent": false }
+}

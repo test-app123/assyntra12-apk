@@ -1,0 +1,10 @@
+{
+  "name": "assyntra-android",
+  "version": "1.0.9",
+  "private": true,
+  "dependencies": {
+    "@capacitor/android": "^6.1.2",
+    "@capacitor/cli": "^6.1.2",
+    "@capacitor/core": "^6.1.2"
+  }
+}
